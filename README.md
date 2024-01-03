@@ -1,3 +1,4 @@
+![icon48](https://github.com/zvizvi/GitHub-Web-IDE/assets/155521942/6e5a4124-08d6-46fe-a21c-2e8b66a0df65)
 ![GitHubWebIDE](https://raw.githubusercontent.com/zvizvi/GitHub-Web-IDE/master/src/img/logo.svg)
 # GitHub Web IDE
 
